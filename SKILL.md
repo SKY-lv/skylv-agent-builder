@@ -1,8 +1,8 @@
 ---
 name: agent-builder
 slug: skylv-agent-builder
-version: 2.0.0
-description: "AI Agent 架构设计器。提供 10+ 种 Agent 架构模板（客服/销售/开发/运营），包含完整的人设、工具集、工作流程。Triggers: build agent, design agent, agent architecture, agent template."
+version: 2.0.2
+description: AI Agent architecture designer. Provides 10+ Agent templates (customer service/sales/dev/ops) with full personas, toolkits, and workflow patterns. Triggers: agent architecture, design agent, agent template.
 author: SKY-lv
 license: MIT
 tags: [agent, architecture, template, openclaw, design]
